@@ -1,1 +1,2 @@
 add_subdirectory(SimpleDecoder)
+add_subdirectory(SubDummy)
